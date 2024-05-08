@@ -48,8 +48,8 @@ Produced a heatmap illustrating various health factors across different age grou
 
 ## Story Requirements
 
-Story Title: Healthcare Summary Report
-Story Point 1: Contains Dashboard 1
-Story Point 2: Contains Dashboard 2
+Story Title: Healthcare Summary Report<br/>
+Story Point 1: Contains Dashboard 1<br/>
+Story Point 2: Contains Dashboard 2<br/>
 Story Point 3: Contains Heat Map 
 
